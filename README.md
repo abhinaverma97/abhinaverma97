@@ -1,7 +1,7 @@
 # Hi, I'm Abhinav 👋
 
 
----
+
 
 ### Tech Stack
 
@@ -15,7 +15,7 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
+
 
 ### Current Projects
 
@@ -26,7 +26,7 @@
 - **[Smart Product Pricing](https://github.com/abhinaverma97/ml-amazon.git)** - ML Challenge 2025 - ML solution analyzing product details to predict optimal pricing points.
 - **[Gesture Pilot](https://github.com/abhinaverma97/Gesture-Pilot.git)** - Gesture-Based Interface for Computer Interaction allowing touch-free control of your system.
 
----
+
 
 ### Recognition
 
@@ -35,7 +35,7 @@
 - 🏆 **Foursquare Hackathon** - Top 20 Finish
 - 🏆 **IdeaHub 2.0** - Winner at IGNITE 7.0 TechFest
 
----
+
 
 ### Connect
 
