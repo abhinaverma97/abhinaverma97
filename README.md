@@ -30,10 +30,10 @@
 
 ### Recognition
 
-🏆 **Shell AI Hackathon 2025** - Top 18 / ~7,000 participants
-🏆 **ICEA TruthTell Hackathon** - Ranked Top 25 amongst 5,650 participants
-🏆 **Foursquare Hackathon** - Top 20 Finish
-🏆 **IdeaHub 2.0** - Winner at IGNITE 7.0 TechFest
+- 🏆 **Shell AI Hackathon 2025** - Top 18 / ~7,000 participants
+- 🏆 **ICEA TruthTell Hackathon** - Ranked Top 25 amongst 5,650 participants
+- 🏆 **Foursquare Hackathon** - Top 20 Finish
+- 🏆 **IdeaHub 2.0** - Winner at IGNITE 7.0 TechFest
 
 ---
 
