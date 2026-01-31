@@ -1,8 +1,5 @@
 # Hi, I'm Abhinav 👋
 
-Full Stack Developer | AI Enthusiast
-
-I build intelligent, high-performance web applications and AI-powered solutions.
 
 ---
 
