@@ -17,7 +17,7 @@
 
 
 
-### Current Projects
+### Projects
 
 - **[Pathly](https://github.com/abhinaverma97/Pathly.git)** - AI-Powered Local Search combining ML and Google Places for intelligent location discovery.
 - **[CredCheck](https://github.com/abhinaverma97/CredCheck.git)** - Multilayered Fake News Detection System utilizing advanced verification systems for credibility assessment.
