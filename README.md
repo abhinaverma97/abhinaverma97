@@ -35,19 +35,6 @@
 - 🏆 **Foursquare Hackathon** - Top 20 Finish
 - 🏆 **IdeaHub 2.0** - Winner at IGNITE 7.0 TechFest
 
-### GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abhinaverma97&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinaverma97&layout=compact&theme=radical" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinaverma97&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
 
 ### Connect
 
