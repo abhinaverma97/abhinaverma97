@@ -20,12 +20,12 @@
 ### Projects
 
 - **[SpicyVPN](https://spicypepper.app)** - Invisible Untraceable VPN (650+ users)
+- **[Vexa](https://vexa.itsabhi.in)** - A search API designed for AI agents. Raw search, AI summaries, and deep research — all through a single API key.
+- **[NimSuper](https://www.npmjs.com/package/nimsuper)** - Rotates NVIDIA NIM API keys with model fallback for OpenCode.
 - **[Pathly](https://github.com/abhinaverma97/Pathly.git)** - AI-Powered Local Search combining ML and Google Places for intelligent location discovery.
 - **[CredCheck](https://github.com/abhinaverma97/CredCheck.git)** - Multilayered Fake News Detection System utilizing advanced verification systems for credibility assessment.
 - **[Fuel Blend Properties](https://github.com/abhinaverma97/Fuel-Blend-Properties.git)** - *Shell Hackathon 2025 (Top 18)* - predicting fuel blend properties using ensemble stacking.
 - **[Smart Product Pricing](https://github.com/abhinaverma97/ml-amazon.git)** - ML Challenge 2025 - ML solution analyzing product details to predict optimal pricing points.
-- **[Vexa Search](https://github.com/abhinaverma97/vexa-search.git)** - A search API designed for AI agents. Raw search, AI summaries, and deep research — all through a single API key.
-- **[NimSuper](https://github.com/abhinaverma97/nimsuper.git)** - Rotates NVIDIA NIM API keys with model fallback for OpenCode.
 
 
 
